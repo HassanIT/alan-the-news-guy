@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Live Demo(https://alan-news-guy.web.app/)
+[Live Demo](https://alan-news-guy.web.app/)
 
 ## Available Scripts
 
